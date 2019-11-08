@@ -1,0 +1,7 @@
+Se crea una solucion nueva en visual studio 2019 (TestGitHubOnVisualStudio2019) en el directorio C:\Users\sebastianp\source\repos.
+
+Solution Explorer, boton derecho sobre la solucion, Add To Source Control.
+
+Tab Team Explorer, agrego la solucion como Local Git Repository, no esta todavia en GitHub.
+
+Home del Tab Team Explorer, Sync. Publish to GitHub, Publish. Listo!.
